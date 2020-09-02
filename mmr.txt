@@ -1,0 +1,33 @@
++21  CORE  WIN  with Juggernaut 27/09/2019 12:43:20
+
++21  CORE  WIN  with Drow Ranger 27/09/2019 13:24:51
+
++23  CORE  WIN  with Timbersaw 27/09/2019 15:35:19
+
++28  CORE  WIN  with Phantom Assassin 27/09/2019 16:21:24
+
+CORE: 3709 SUPPORT: 3250
+-23  CORE  LOSE  with Enchantress 27/09/2019 17:07:00
+--------------------------------
+-28  CORE  LOSE  with Axe 27/09/2019 18:03:12
+--------------------------------
+-23  CORE  LOSE  with Sniper 27/09/2019 18:45:45
+--------------------------------
+
+--------------------------------
++27  CORE  WIN  with Dark Seer 29/09/2019 13:28:05
+--------------------------------
++21  CORE  WIN  with 3636 29/09/2019 14:59:44
+--------------------------------
++-21  CORE  WIN  with Kunkka 29/09/2019 15:52:11
+--------------------------------
+
+CURRENT MMR:   CORE: 3615 SUPPORT: 3225 29/09/2019 16:05:58
+TODAY CHANGE:   CORE: 27 SUPPORT: 0 29/09/2019 16:05:58--------------------------------
+-27  CORE  LOSE  with Earthshaker 29/09/2019 21:09:59
+--------------------------------
+-23  CORE  LOSE  with od 29/09/2019 22:22:21
+--------------------------------
+
+CURRENT MMR:   CORE: 3575 SUPPORT: 3239 30/09/2019 09:41:54
+TODAY CHANGE:   CORE: -50 SUPPORT: -20 30/09/2019 09:41:54
